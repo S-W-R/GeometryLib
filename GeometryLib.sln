@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLib", "GeometryLib\GeometryLib.csproj", "{9E6A268B-F6FB-42E1-B30C-2299D7643F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLib.Test", "GeometryLib.Test\GeometryLib.Test.csproj", "{22EDD2FD-74C5-4ACF-81B8-F0E98EAF76A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6A268B-F6FB-42E1-B30C-2299D7643F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6A268B-F6FB-42E1-B30C-2299D7643F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6A268B-F6FB-42E1-B30C-2299D7643F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6A268B-F6FB-42E1-B30C-2299D7643F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EDD2FD-74C5-4ACF-81B8-F0E98EAF76A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EDD2FD-74C5-4ACF-81B8-F0E98EAF76A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EDD2FD-74C5-4ACF-81B8-F0E98EAF76A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EDD2FD-74C5-4ACF-81B8-F0E98EAF76A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
